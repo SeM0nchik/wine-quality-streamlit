@@ -1,5 +1,7 @@
 # Подборка вин
 
+[Открыть приложение](https://wine-quality-app-kwxumuoved5d9y2wggqutn.streamlit.app/)
+
 Проверено на Python 3.14.3. Модель обучена в HW3_MMDA.ipynb; приложение её не переобучает.
 
 Локальный запуск из папки репозитория:
